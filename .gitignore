@@ -1,3 +1,4 @@
 target/
 debug/
 Cargo.lock/
+testing_projects/
